@@ -30,8 +30,7 @@ func init() {
 	}
 
 	// Init app
-	if app {
-		portapps.NewWithCfg("brave", "Brave", cfg)
+	if app = portapps.NewWithCfg("brave", "Brave", cfg) {
 	}
 }
 
