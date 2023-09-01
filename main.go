@@ -30,7 +30,7 @@ func init() {
 	}
 
 	// Init app
-	app, err = portapps.NewWithCfg("brave", "Brave", cfg)
+	app = portapps.NewWithCfg("brave", "Brave", cfg)
 }
 
 func main() {
