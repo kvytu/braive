@@ -22,7 +22,7 @@ var (
 )
 
 func init() {
-	var err error
+	// var err error
 
 	// Default config
 	cfg = &config{
