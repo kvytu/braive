@@ -22,7 +22,7 @@ var (
 )
 
 func init() {
-	// var err error
+	var err error
 
 	// Default config
 	cfg = &config{
@@ -30,7 +30,7 @@ func init() {
 	}
 
 	// Init app
-	if app = portapps.NewWithCfg("brave", "Brave", cfg) {
+	if app, err = portapps.NewWithCfg("brave", "Brave", cfg) {
 	}
 }
 
