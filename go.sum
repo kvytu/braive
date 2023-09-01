@@ -8,8 +8,8 @@ github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
 github.com/kevinburke/go-bindata v3.24.0+incompatible h1:qajFA3D0pH94OTLU4zcCCKCDgR+Zr2cZK/RPJHDdFoY=
 github.com/kevinburke/go-bindata v3.24.0+incompatible/go.mod h1:/pEEZ72flUW2p0yi30bslSp9YqD9pysLxunQDdb2CPM=
-github.com/kvytu/kernal v1.57.50 h1:Z5qQZDYA88OaEQhoeBSG2K+DUdAZi57pqTGv/f9L2l0=
-github.com/kvytu/kernal v1.57.50/go.mod h1:B49I5y6WLdKsRG+G0hFNUzb0P6WfvE6mb2LsqKReKvY=
+github.com/kvytu/kernal v1.57.51 h1:XDXnGSwLqAZY7kyI5vDzCMD1vxRkKIUXg5JcFDQ+5fI=
+github.com/kvytu/kernal v1.57.51/go.mod h1:B49I5y6WLdKsRG+G0hFNUzb0P6WfvE6mb2LsqKReKvY=
 github.com/mattn/go-colorable v0.1.12 h1:jF+Du6AlPIjs2BiUiQlKOX0rt3SujHxPnksPKZbaA40=
 github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=
 github.com/mattn/go-isatty v0.0.14 h1:yVuAays6BHfxijgZPzw+3Zlu5yQgKGP2/hcQbHb7S9Y=
